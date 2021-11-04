@@ -1,0 +1,132 @@
+
+/* the styles for the elements */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 600px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fffded;
+    border: 3px solid #932420;
+
+
+}
+
+
+body h3{
+
+}
+a:hover {font-style: italic;}
+
+
+
+/* the styles for the header */
+header{
+    padding: 1.5em 2em 0 0 ;
+    background: -webkit-linear-gradient( 30deg, #f6bb73 0%, #f6bb73 30%,
+    white 50%, #f6bb73 80%, #f6bb73 100% );
+
+
+
+
+}
+header h3 {
+    text-shadow: 2px 2px #932420;
+    font-size: 110%;
+    border-bottom: 3px solid #932420;
+
+
+}
+header img {
+    float: left;
+}
+
+header h1 {
+    font-size: 170%;
+    color: #932420;
+    top: 50%;
+    align-content: center;
+
+
+}
+
+h2{
+
+    color: #931420;
+}
+
+
+
+
+/* the styles for the section */
+
+/* the main element section */
+main {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+main h1{
+    padding-top: .3em;
+    padding-bottom: .3em;
+    border-bottom: 3px solid #932420;
+    border-top: 3px solid #932420;
+}
+main h2{
+    padding-top: .3em;
+    padding-bottom: .3em;
+
+}
+
+
+main img{
+    padding-bottom: .25em;
+}
+main p{
+    padding-bottom: .5em;
+}
+main blockquote{
+    padding-right: 2em;
+    padding-left: 2em;
+}
+main ul{
+    padding-bottom: .25em;
+    padding-left: 1.25em;
+}
+main li{
+    padding-bottom: .35em;
+}
+html{
+    background-color: white;
+    position: absolute;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: #931420;
+
+}
+/* paragraph section*/
+p{
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+blockquote{
+    font-style: italic;
+
+}
+
+head img {
+    position: absolute;
+    top:30px
+
+
+}
+/* the styles for the footer */
+footer {
+    text-align: center;
+    color: white;
+    background-color: #931420;
+    padding: 1em;
+}
